@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "4",
+      "checked": true,
+      "item": "Hi"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Hhh"
+    }
+  ]
+}
